@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/4/8 0:09:52。
+     1>项目“c:\Users\administrator\documents\visual studio 2012\Projects\QQRobot\QQRobot\QQRobot.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\QQRobot.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\QQRobot.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt QQRobot.cpp QQRobotDlg.cpp
+         QQRobotDlg.cpp
+     1>c:\users\administrator\documents\visual studio 2012\projects\qqrobot\qqrobot\qqrobotdlg.cpp(158): error C2664: “CWnd::MessageBoxW”: 不能将参数 1 从“const char [4]”转换为“LPCTSTR”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+         QQRobot.cpp
+         正在生成代码...
+     1>已完成生成项目“c:\Users\administrator\documents\visual studio 2012\Projects\QQRobot\QQRobot\QQRobot.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.67
