@@ -1,0 +1,5 @@
+c:\users\administrator\Desktop\coco\Coco\Plugin\myplu.dll
+c:\users\administrator\Desktop\coco\Coco\Plugin\myplu.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\myplu\myplu\obj\Debug\myplu.dll
+c:\users\administrator\documents\visual studio 2012\Projects\myplu\myplu\obj\Debug\myplu.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\myplu\myplu\obj\Debug\myplu.csprojResolveAssemblyReference.cache
